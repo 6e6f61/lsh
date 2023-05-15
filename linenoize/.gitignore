@@ -1,0 +1,7 @@
+zig-cache/
+zig-out/
+example
+example.o
+history.txt
+/.vs
+/.vscode
